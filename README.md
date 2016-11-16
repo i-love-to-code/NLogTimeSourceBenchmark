@@ -4,6 +4,7 @@ Uses the BenchmarkRunner library to generate benchmark data for NLog's various T
 
 Here's the output from my Windows VM, YMMV.
 
+``` ini
 BenchmarkDotNet=v0.10.0
 OS=Microsoft Windows NT 6.2.9200.0
 Processor=Intel(R) Core(TM) i7-4770HQ CPU 2.20GHz, ProcessorCount=2
