@@ -1,6 +1,6 @@
 # NLog TimeSource Benchmark
 
-Uses the BenchmarkRunner library to generate benchmark data for NLog's various TimeSource providers. Created against .Net 4.5.2 and makes use of this [https://gist.github.com/vcaraulean/6a0e3201ea7889e06bd35391bba0d521](Gist).
+Uses the BenchmarkRunner library to generate benchmark data for NLog's various TimeSource providers. Created against .Net 4.5.2 and makes use of this [Gist](https://gist.github.com/vcaraulean/6a0e3201ea7889e06bd35391bba0d521).
 
 Here's the output from my Windows VM, YMMV.
 
